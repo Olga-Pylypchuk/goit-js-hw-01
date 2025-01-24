@@ -1,6 +1,6 @@
 'use strict';
 
-//  const totalPrice = quantity * pricePerDroid; 
+ 
 function makeTransaction(quantity, pricePerDroid){
    
     console.log(`You ordered ${quantity} droids worth ${quantity * pricePerDroid} credits!`)
